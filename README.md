@@ -9,7 +9,7 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
   - Key Features: 
      - Handles user input.
      - Provides error handling for invalid inputs or division by zero.
-     - Concepts Used: Functions, conditionals, and loops.
+   - Concepts Used: Functions, conditionals, and loops.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
      - Simple password generation.
      - Customizable length.
    - Concepts Used: String manipulation, random module.
-
+     
 ---
 
 ### 4. GuessTheNumber
@@ -36,7 +36,9 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
    - Key Features:
      - Provides hints for higher or lower.
      - Allows multiple attempts.
-    - Concepts Used: Random module, loops, and conditionals.
+   - Concepts Used: Random module, loops, and conditionals.
+     
+---
 
 ### 5. HangmanGame
    - A classic hangman game where the player guesses letters to form a word.
@@ -44,12 +46,16 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
      - Tracks wrong guesses.
      - Displays the word with correctly guessed letters.
    - Concepts Used: Lists, loops, and string manipulation.
+     
+---
 
 ### 6. Hard Level Password Generator
    - Generates complex passwords with letters, numbers, and special characters for enhanced security.
    - Key Features:
      - Customizable password length and complexity.
    - Concepts Used: Random module, string methods.
+
+---
 
 ### 7. HigherLowerGame
    - A game where users guess whether one entity has a higher or lower value compared to another (e.g., higher social media followers).
@@ -58,13 +64,16 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
      - Compares numerical values.
     - Concepts Used: Functions, conditionals.
 
+---
+
 ### 8. LoveCalculator
    - A fun program that calculates the "love percentage" between two names.
    - Key Features: 
      - Takes two names as input.
      - Calculates a random "compatibility score."
    - Concepts Used: String manipulation, random module.
-
+     
+---
 
 ### 9. RockPaperScissorsGame
    - A simple implementation of the classic "Rock, Paper, Scissors" game.
@@ -73,9 +82,11 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
      - Determines the winner based on the game rules.
     - Concepts Used: Random module, conditionals.
 
+---
+
 ### 10. Silent Auction Program
    - Simulates a silent auction where multiple users can place bids, and the program determines the winner.
-     Key Features:
+   - Key Features:
      - Tracks user bids.
      - Declares the highest bidder as the winner.
-     Concepts Used:Dictionaries, loops, functions.
+   - Concepts Used:Dictionaries, loops, functions.
