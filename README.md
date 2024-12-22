@@ -58,11 +58,11 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
 ---
 
 ### 7. HigherLowerGame
-   - A game where users guess whether one entity has a higher or lower value compared to another (e.g., higher social media followers).
-    - Key Features: 
+     - A game where users guess whether one entity has a higher or lower value compared to another (e.g., higher social media followers).
+   - Key Features: 
      - Interactive gameplay.
      - Compares numerical values.
-    - Concepts Used: Functions, conditionals.
+   - Concepts Used: Functions, conditionals.
 
 ---
 
@@ -76,11 +76,11 @@ Welcome to my Python Projects repository! This collection includes 10 projects, 
 ---
 
 ### 9. RockPaperScissorsGame
-   - A simple implementation of the classic "Rock, Paper, Scissors" game.
-    - Key Features: 
+     - A simple implementation of the classic "Rock, Paper, Scissors" game.
+   - Key Features: 
      - Allows user and computer to play.
      - Determines the winner based on the game rules.
-    - Concepts Used: Random module, conditionals.
+   - Concepts Used: Random module, conditionals.
 
 ---
 
